@@ -1,0 +1,13 @@
+body{
+    background-image: url(https://vezha.vn.ua/wp-content/uploads/2017/04/maxresdefault_13.jpg);
+    margin: auto 10%;
+}
+.s{
+	color: white;
+	text-align: center;
+	text-shadow: 2px 5px 3px black;
+	padding: 20px;
+}
+#list_menu{
+	color:black;
+}

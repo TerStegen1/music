@@ -1,0 +1,12 @@
+body{
+    background-image: url(fonblues.jpg);
+    margin: auto 10%;
+}
+.s{
+	color: white;
+	text-align: center;
+	text-shadow: 2px 5px 3px black;
+	padding: 20px;
+}
+.f{
+	color: black;

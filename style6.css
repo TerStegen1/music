@@ -1,0 +1,14 @@
+body{
+    background-image: url(fonhip.jpg);
+    margin: auto 10%;
+}
+.s{
+	color: black;
+	text-align: center;
+	text-shadow: 2px 5px 3px silver;
+	padding: 20px;
+}
+.f{
+	color: black;
+	
+}
